@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\Admin\source\repos\leetcode\x64\Debug\leetcode.exe</FullPath>
+      <FullPath>C:\leetcode\x64\Debug\leetcode.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
