@@ -1,2 +1,4 @@
 ﻿  Solution.cpp
+C:\leetcode\leetcode\Solution.cpp(55,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\leetcode\leetcode\Solution.cpp(56,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
   leetcode.vcxproj -> C:\leetcode\x64\Debug\leetcode.exe
